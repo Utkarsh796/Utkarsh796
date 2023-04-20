@@ -5,11 +5,16 @@
 
 Here are some ideas to get you started:
 Skills:
-SQl
-Power BI
-Python
-Tableau
-Advance excel
+* SQl
+* Power BI
+* Python
+* Tableau
+* Advance excel
+
+
+### Contact
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
